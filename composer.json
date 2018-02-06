@@ -1,0 +1,13 @@
+{
+  "name": "nicholasmole/pdf-word-filter",
+  "version": "1.0.0",
+  "description": "Tiny plugin for word and pdg mime.",
+  "type": "wordpress-plugin",
+  "authors": [{
+      "name": "Nicholas Mole",
+      "email": "nmole065@g.rwu.com"
+  }],
+  "require": {
+      "php": ">=7.1"
+  }
+}
